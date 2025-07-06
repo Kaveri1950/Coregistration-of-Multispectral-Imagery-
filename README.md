@@ -1,1 +1,1 @@
-# Coregistration-of-Multispectral-Imagery-
+# Coregistration of Multispectral Imagery 
